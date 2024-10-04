@@ -1,0 +1,4 @@
+Mi IP Pública es: 181.164.212.248
+Mi usuario es: vagrant
+El Hash de mi usuario es: 9756da65fe52aefb7651f526629b9a04cf6119172caa3bfe027fd2a2409fce4f
+La URL de mi repositorio es: git@github.com:guid0f/UTNFRA_SO_1P2C_2024_FALCONE.git
